@@ -1,7 +1,3 @@
-### Hi there 👋
-
-![arebrinkemil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arebrinkemil&theme=vue-dark&show_icons=true&hide_border=true&layout=compact) ![arebrinkemil's Stats](https://github-readme-stats.vercel.app/api?username=arebrinkemil&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![arebrinkemil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=arebrinkemil&theme=vue-dark&hide_border=true)
-
 
 <h1 align="center">Hi 👋, I'm Emil Årebrink</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
